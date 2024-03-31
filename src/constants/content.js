@@ -38,21 +38,21 @@ export const PROJECTS = [
     image: project2,
     description:
       "A website to create Book covers",
-    technologies: [ "TailwindCSS", "Nextjs", "Firebase"],
+    technologies: [  "Nextjs","TailwindCSS", "Firebase", "OpenAI"],
   },
   {
     title: "Practice Partner",
     image: project3,
     description:
       "A website to generate image and prompts",
-    technologies: [  "React","TailwindCSS", "OpenAI", "Firebase"],
+    technologies: [  "React", "TailwindCSS", "NodeJs", "OpenAI", "Firebase"],
   },
   {
     title: "Portfolio Website",
     image: project4,
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
+    technologies: ["React", "TailwindCSS"],
   },
 
 ];
